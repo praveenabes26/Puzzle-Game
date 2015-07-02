@@ -3,6 +3,7 @@
  */
 public class Puzzle {
     Array arrobj=new Array();
+
     public void drawBoard() {
         Array arrobj=new Array();
          int b = 1;
